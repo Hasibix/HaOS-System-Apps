@@ -1,7 +1,7 @@
-# System Apps
-
 # Pre-requisites
 sudo apt install curl ca-certificates -y
+
+# System Apps
 
 # Waydroid
 export DISTRO="jammy"
@@ -16,3 +16,7 @@ sudo apt-get install wine64
 # Darling
 
 # HaOS Application Runtime (Non-Linux)
+
+# Default Apps
+sudo apt install firefox
+sudo apt install libreoffice
